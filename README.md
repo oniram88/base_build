@@ -1,0 +1,1 @@
+immagine di base con alcuni pacchetti per la compilazione dei sorgenti
